@@ -2,8 +2,8 @@
 const https = require('https');
 const readline = require('readline');
 
-const TOKEN = process.env.TRIPDESK_TOKEN;
-const URL = 'https://flights.tripdesk.app/api/mcp';
+const TOKEN = process.env.FLIGHTTHING_TOKEN;
+const URL = 'https://flightthing.com/api/mcp';
 
 const rl = readline.createInterface({ input: process.stdin });
 

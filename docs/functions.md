@@ -1,6 +1,6 @@
 # MCP functions (overview)
 
-This document summarizes the 11 available MCP tools and what they do.
+This document summarizes the 11 MCP tools exposed by The Flight Thing and what they do.
 
 ## Flights
 - `list_flights`: List flights for the authenticated user. Supports filters and pagination.

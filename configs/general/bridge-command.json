@@ -1,12 +1,12 @@
 {
   "mcpServers": {
-    "tripdesk-flights": {
+    "flightthing-flights": {
       "command": "node",
       "args": [
-        "/path/to/tripdesk-flights-mcp/bridge/tripdesk-bridge.js"
+        "/path/to/flightthing-mcp/bridge/flightthing-bridge.js"
       ],
       "env": {
-        "TRIPDESK_TOKEN": "YOUR_TOKEN_HERE"
+        "FLIGHTTHING_TOKEN": "YOUR_TOKEN_HERE"
       }
     }
   }

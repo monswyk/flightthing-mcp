@@ -1,10 +1,10 @@
 # Claude Desktop configs
 
-This folder contains ready-to-use config templates for Claude Desktop.
+This folder contains ready-to-use config templates for Claude Desktop to use **The Flight Thing** MCP via the local Node bridge.
 
 Steps:
 1. Copy the config for your OS into your Claude Desktop config file.
-2. Set the `TRIPDESK_TOKEN` environment variable for your session.
+2. Set the `FLIGHTTHING_TOKEN` environment variable for your session.
 3. Ensure the bridge script exists at the configured path.
 
 Notes:
