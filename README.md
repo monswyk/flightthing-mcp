@@ -4,7 +4,7 @@
   <img src="https://flightthing.com/mimes/logos/flightthing-logo-with-text.png" alt="" width="320">
 </a>
 
-# The Flight Thing MCP
+# The Flight Thing AI/MCP
 
 ### MCP bridge & client configs
 
