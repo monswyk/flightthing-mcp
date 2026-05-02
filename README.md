@@ -1,7 +1,21 @@
-# flightthing-mcp
-MCP bridge and configuration templates for [The Flight Thing](https://flightthing.com).
+<div align="center">
 
-The hosted MCP API is at `https://flightthing.com/api/mcp` (this repo is the client-side bridge and config).
+# The Flight Thing
+
+### MCP bridge & client configs
+
+<p>
+  <a href="https://github.com/monswyk/flightthing-mcp"><img src="https://img.shields.io/badge/GitHub-monswyk%2Fflightthing--mcp-181717?logo=github&logoColor=white" alt="Repository on GitHub"></a>
+  &nbsp;
+  <a href="https://flightthing.com"><img src="https://img.shields.io/badge/flightthing.com-app-4f46e5" alt="The Flight Thing"></a>
+</p>
+
+Wire **Cursor**, **Claude Desktop**, and other MCP clients to [The Flight Thing](https://flightthing.com).  
+Hosted MCP endpoint: `https://flightthing.com/api/mcp`
+
+</div>
+
+---
 
 ## What this repo contains
 - Bridge
